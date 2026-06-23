@@ -1,0 +1,12 @@
+name: structural_design_platform
+description: Runtime Flutter app package with real Drift/SQLite local database execution for projects, design runs, formula traces, reports, and calculation books.
+publish_to: none
+version: 8.7.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dev_dependencies:
+  test: ^1.25.0
+
+# v8.7 local database engine templates use Drift/SQLite in the Flutter runtime app.
